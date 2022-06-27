@@ -1,5 +1,0 @@
-* Agregar/quitar una metrica nueva de esas que usan ellos
-* Crear el heatmap para comparar
-* Identificar métricas que dan resultados muy similares, para las cuales puedas quedarte con solo una de ellas y reducir la complejidad de todo el sistema.
-* Identificar la mejor combinación de las métricas.
-* Añadir/modificar ground truth
